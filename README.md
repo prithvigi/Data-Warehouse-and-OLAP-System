@@ -1,0 +1,2 @@
+# Data-Warehouse-and-OLAP-System
+Implemented a clinical and genomic data warehouse using the Oracle system. An OLAP layer which carries out many OLAP and statistical operations was implemented on top of the Oracle database in C# using Microsoft Visual Studio as a platform. This was used for knowledge discovery such as finding the informative genes for any particular disease and classify new patients based on their genes.
